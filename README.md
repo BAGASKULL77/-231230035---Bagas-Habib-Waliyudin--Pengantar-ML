@@ -8,3 +8,4 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 
 ## Daftar Tugas
 - **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/github.com/BAGASKULL77/-231230035---Bagas-Habib-Waliyudin--Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
+
